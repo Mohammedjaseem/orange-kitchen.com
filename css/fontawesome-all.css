@@ -1216,7 +1216,7 @@ readers do not read off random characters that represent icons */
 .fa-google-plus:before {
   content: "\f2b3"; }
 
-.fa-google-plus-g:before {
+.fab fa-instagram:before {
   content: "\f0d5"; }
 
 .fa-google-plus-square:before {
